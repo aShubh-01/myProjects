@@ -1,0 +1,46 @@
+a{
+	Color: black;
+	text-decoration: none;
+}
+table,td {
+	border: 2px solid black;
+	border-collapse: collapse;
+	background-color:#FFFF00;
+	padding: 10px;
+}
+
+#header{
+	Color: Cyan;
+	font-family: 'Ubuntu';
+}
+
+#title{
+	Color : #FF7722;
+	animation: mymove 8s infinite;
+	font-family: 'Bungee';
+}
+
+#article{
+}
+
+#News{
+	Font-family: 'Aleo';
+	Float: center;
+	padding-right: 2px;
+	Background-color: white;
+	border-radius: 15px;
+	Height: 400px;
+	Width: 400px;
+	font-size: 20px;
+}
+@keyframes mymove{
+0%{color: #DC143C;}
+12%{color: #FF00CC;}
+25%{color: #099FFF;}
+37%{color: #00FF00;}
+50%{color: #FF6600;}
+62%{color: #FF6600;}
+75%{color: #099FFF;}
+87%{color: #FF00CC;}
+100%{color: #DC143C;}
+}

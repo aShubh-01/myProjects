@@ -1,0 +1,34 @@
+#header{
+	position: relative;
+	Color: #00FF00;
+	font-family: 'Chelsea Market' ;
+	background-color: #0d0d0d;
+	Height: 80px;
+	Width: 300px;
+	border-radius: 60px;
+	padding-top:10px;
+   	padding-bottom:5px;
+}
+#article{
+	Color: #FF0099;
+	font-size: 18px;
+	font-family: 'Ubuntu' ;
+}
+#main{
+	background-color: white;
+	Height: 2050px;
+	Widht: 1000px;
+	border-radius: 50px;
+	font-family:Freemono,monospace;
+}
+img{
+	border-radius: 10%;
+	Height: 350px;
+	Width: 250px;
+}
+ul{
+	list-style: none;
+}
+#gameText{
+	font-size: 18px;			
+}

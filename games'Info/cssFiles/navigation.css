@@ -1,0 +1,15 @@
+a{
+	Color: black;
+	text-decoration: none;
+}
+table,td {
+	border: 2px solid black;
+	border-collapse: collapse;
+	background-color:#FFFF00;
+	border-radius: 25px;
+	padding: 10px;
+	font-family: 'Bungee';	
+}
+#navigation{
+        
+}
